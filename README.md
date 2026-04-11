@@ -7,7 +7,7 @@ Designed to showcase skills, projects, and achievements with a clean UI inspired
 
 ## 🚀 Live Demo
 
-👉 *(Add your deployed link here later)*
+https://sprightly-seahorse-77aa01.netlify.app/
 
 ---
 
