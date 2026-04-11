@@ -1,70 +1,137 @@
-# Getting Started with Create React App
+# 🌐 Peesa Lahari Sri – Portfolio Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A modern, responsive, and animated personal portfolio built using **React.js**.
+Designed to showcase skills, projects, and achievements with a clean UI inspired by modern product designs.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Live Demo
 
-### `npm start`
+👉 *(Add your deployed link here later)*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 👤 About Me
 
-### `npm test`
+* 🎓 B.Tech CSE (AI & ML) Student
+* 💻 Full Stack Developer
+* 🤖 AI/ML Enthusiast
+* 🧠 Strong in Data Structures & Problem Solving
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## 🛠 Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* React.js
+* JavaScript (ES6+)
+* HTML5
+* CSS3
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Tools
 
-### `npm run eject`
+* VS Code
+* Git & GitHub
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## ✨ Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+* ⚡ Smooth scrolling navigation
+* 🎨 Glassmorphism UI + gradient design
+* 🧩 Modular component structure
+* 🖱️ Hover animations & card effects
+* 📱 Fully responsive design
+* 🔗 Social profile integration
+* 📬 Contact form (UI ready)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 📂 Project Structure
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+client/
+ ├── src/
+ │   ├── components/
+ │   │    ├── Navbar.jsx
+ │   │    ├── Footer.jsx
+ │   │
+ │   ├── sections/
+ │   │    ├── Hero.jsx
+ │   │    ├── About.jsx
+ │   │    ├── Skills.jsx
+ │   │    ├── Projects.jsx
+ │   │    ├── Experience.jsx
+ │   │    ├── Achievements.jsx
+ │   │    ├── Socials.jsx
+ │   │    ├── Contact.jsx
+ │   │
+ │   ├── pages/
+ │   │    └── Home.jsx
+ │   │
+ │   ├── App.js
+ │   ├── index.js
+ │   └── index.css
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## 📌 Projects Included
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* 🧠 Brain Tumor Detection (Deep Learning – U-Net)
+* 📄 AI Resume Analyzer (LLM + FastAPI)
+* 💬 AI Chat Web App (LLM APIs)
+* ⚡ Energy Consumption Prediction (ML + Flask)
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## 🔗 Profiles
 
-### Making a Progressive Web App
+* GitHub: https://github.com/P-lahari93
+* LinkedIn: https://www.linkedin.com/in/Laharisri/
+* LeetCode: https://leetcode.com/u/LahariTanu/
+* HackerRank: https://www.hackerrank.com/profile/peesalaharisri
+* Striver Sheet: https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 📦 Installation & Setup
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+```bash
+# Clone repository
+git clone https://github.com/your-username/portfolio.git
 
-### Deployment
+# Navigate to project
+cd portfolio/client
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+# Install dependencies
+npm install
 
-### `npm run build` fails to minify
+# Start development server
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+
+## 🎯 Future Improvements
+
+* 🔥 Add backend for contact form (Node.js / FastAPI)
+* 🎥 Add project demo videos
+* 🤖 Integrate AI chatbot
+* 🌙 Dark/Light mode toggle
+
+---
+
+## 📬 Contact
+
+📧 Email: [peesalaharisri@gmail.com](mailto:peesalaharisri@gmail.com)
+📍 Location: Andhra Pradesh, India
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub and support!
+
+---
