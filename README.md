@@ -8,6 +8,7 @@ Designed to showcase skills, projects, and achievements with a clean UI inspired
 ## 🚀 Live Demo
 
 https://sprightly-seahorse-77aa01.netlify.app/
+file:///C:/Users/peesa/Downloads/peesa_lahari_sri_portfolio.html#
 
 ---
 
